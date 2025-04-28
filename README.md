@@ -4,6 +4,16 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 - LlamaIndex for document processing and querying
 - LanceDB as the vector store
 
+# Summary 
+1. Install all needed Python libraries like LlamaIndex, LanceDB, pypdf, dotenv, and Google GenAI.
+2. Import the libraries and load your Google API key from the .env file.
+3. Set up the LLM (Gemini) and embedding model (text-embedding-004) using your API key.
+4. Check if the jp-handbook-full.pdf file exists and load it into memory.
+5. Split the loaded document into smaller text chunks (nodes) using a sentence splitter.
+6. Connect to LanceDB, drop old tables if needed, and create a new vector database table.
+7. Build a searchable vector index from the text chunks (nodes).
+8. Done! Your PDF is now loaded, chunked, and stored in LanceDB for fast search.
+
 # Steps 
 
 ### 1. Install Required Dependencies
