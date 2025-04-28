@@ -47,7 +47,9 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 
 ### 8. Multiple Q&A
 ##### Notes:
-
+    - Actual Q&A.
+    - It took subsecond to finish.
+    
 ### 9. Interactive Q&A
 ##### Notes:
 
