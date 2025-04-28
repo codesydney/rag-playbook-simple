@@ -15,6 +15,8 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 
 ### 2. Import Libraries
 ##### Notes:
+    - Import of required libraries. 
+    - It took few seconds to install these dependencies.
 
 ### 3. Load and Process the PDF Document
 ##### Notes:
