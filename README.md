@@ -37,9 +37,13 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
     
 ### 6. Create a Query Engine
 ##### Notes:
-
+    - Just prepping LlamaIndex querying.
+    - It took subsecond to finish.
+    
 ### 7. Ask Questions
 ##### Notes:
+    - Actual Q&A.
+    - It took subsecond to finish.
 
 ### 8. Multiple Q&A
 ##### Notes:
