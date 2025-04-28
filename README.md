@@ -32,7 +32,9 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 
 ### 5. Set Up LanceDB Vector Store
 ##### Notes:
-
+    - It says Vector index created susccessfully but can't seem to find any persisted file.
+    - It took around 10s to finish. 
+    
 ### 6. Create a Query Engine
 ##### Notes:
 
