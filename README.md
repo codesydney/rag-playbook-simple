@@ -21,12 +21,14 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 ### 3. Load and Process the PDF Document
 ##### Notes:
     - The PDF is 2.7 MB in size with 132 pages.
-    - After the run, it say "Loaded 132 document(s)". Looks like the default chunking is per page. 
+    - After the run, it says "Loaded 132 document(s)". Looks like the default chunking is per page. 
     - It took around 7s to run this step. 
     - Question? Where did it load the chunks? 
 
 ### 4. Parse the Document into Nodes
 ##### Notes:
+    - After the run, it says "Document split into 132 nodes". It appears default node is a page in this case. 
+    - It took 0.4s to finish. 
 
 ### 5. Set Up LanceDB Vector Store
 ##### Notes:
