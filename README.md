@@ -11,6 +11,7 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
     - Inside VS Code, I have to install the Jupyter Notebook extension, it installs a kernel and I have to choose Python environment instead of Jupyiter server.
     - I also signed up for a Google Gemini API as we will use Gemini here.
     - Installation of required libraries. 
+    - It took few seconds to install these dependencies.
 
 ### 2. Import Libraries
 ##### Notes:
