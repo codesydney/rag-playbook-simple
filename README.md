@@ -20,6 +20,10 @@ This notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) s
 
 ### 3. Load and Process the PDF Document
 ##### Notes:
+    - The PDF is 2.7 MB in size with 132 pages.
+    - After the run, it say "Loaded 132 document(s)". Looks like the default chunking is per page. 
+    - It took around 7s to run this step. 
+    - Question? Where did it load the chunks? 
 
 ### 4. Parse the Document into Nodes
 ##### Notes:
